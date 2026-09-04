@@ -13,6 +13,7 @@ Currently expanding into cloud, DevOps, and SRE — Kubernetes, Terraform, obser
 * ✉️  You can contact me at [nicholas.a.yepez@gmail.com](mailto:nicholas.a.yepez@gmail.com)
 * 🚀  I'm currently working on [Steal-A-Striker](http://github.com/Nicholas7536/TourneyTool2)
 * 🧠  I'm currently learning CICD and Kubernetes
+* 🐧  I have a homelab and enjoy talking about it
 * ⚽  Up the Villa! 🦁
 
 <p align="left">
